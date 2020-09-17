@@ -1,4 +1,5 @@
-package com.mychat.springbootchatapp;
+package com.mychat.listeners;
+import com.mychat.pojo.ChatMessagePojo;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.event.EventListener;

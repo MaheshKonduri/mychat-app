@@ -1,4 +1,4 @@
-package com.mychat.springbootchatapp;
+package com.mychat.pojo;
 
 public class ChatMessagePojo {
 

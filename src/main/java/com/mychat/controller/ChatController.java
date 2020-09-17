@@ -1,5 +1,6 @@
-package com.mychat.springbootchatapp;
+package com.mychat.controller;
 
+import com.mychat.pojo.ChatMessagePojo;
 import org.springframework.messaging.handler.annotation.MessageMapping;
 import org.springframework.messaging.handler.annotation.Payload;
 import org.springframework.messaging.handler.annotation.SendTo;
